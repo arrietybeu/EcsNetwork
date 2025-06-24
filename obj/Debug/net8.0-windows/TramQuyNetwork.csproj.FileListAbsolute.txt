@@ -1,0 +1,16 @@
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\TramQuyNetwork.Form1.resources
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\TramQuyNetwork.csproj.GenerateResource.cache
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\TramQuyNetwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\TramQuyNetwork.AssemblyInfoInputs.cache
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\TramQuyNetwork.AssemblyInfo.cs
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\TramQuyNetwork.csproj.CoreCompileInputs.cache
+D:\Project\TramQuyNetwork\TramQuyNetwork\bin\Debug\net8.0-windows\TramQuyNetwork.exe
+D:\Project\TramQuyNetwork\TramQuyNetwork\bin\Debug\net8.0-windows\TramQuyNetwork.deps.json
+D:\Project\TramQuyNetwork\TramQuyNetwork\bin\Debug\net8.0-windows\TramQuyNetwork.runtimeconfig.json
+D:\Project\TramQuyNetwork\TramQuyNetwork\bin\Debug\net8.0-windows\TramQuyNetwork.dll
+D:\Project\TramQuyNetwork\TramQuyNetwork\bin\Debug\net8.0-windows\TramQuyNetwork.pdb
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\TramQuyNetwork.dll
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\refint\TramQuyNetwork.dll
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\TramQuyNetwork.pdb
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\TramQuyNetwork.genruntimeconfig.cache
+D:\Project\TramQuyNetwork\TramQuyNetwork\obj\Debug\net8.0-windows\ref\TramQuyNetwork.dll
