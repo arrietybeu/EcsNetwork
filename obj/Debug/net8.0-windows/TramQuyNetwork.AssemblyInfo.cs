@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TramQuyNetwork")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d7c17dba7b7735f2925aaf812be267212cb2ac6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7dad536b0e0100a37afc32cc63e71ade48ac387")]
 [assembly: System.Reflection.AssemblyProductAttribute("TramQuyNetwork")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TramQuyNetwork")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
