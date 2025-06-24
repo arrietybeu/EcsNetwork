@@ -93,7 +93,6 @@ namespace arriety.ecs.systems
         public void Shutdown(World world)
         {
             var entities = world.GetEntitiesWith<NetworkConnectionComponent>();
-            
             foreach (var entity in entities)
             {
                 var connection = entity.GetComponent<NetworkConnectionComponent>()!;
